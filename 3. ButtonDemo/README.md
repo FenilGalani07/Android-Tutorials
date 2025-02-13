@@ -144,9 +144,9 @@ Here’s how you can contribute:
 
 ## Author
 
-- **Name**: Niraj Bhagchandani
-- **GitHub**: [https://github.com/bhagchandaniniraj/android-tutorials](https://github.com/bhagchandaniniraj/android-tutorials)
-- **Contact**: [bhagchandani.niraj@gmail.com](mailto:bhagchandani.niraj@gmail.com)
+- **Name**: Fenil Galani
+- **GitHub**: [https://github.com/fenilgalani07/android-tutorials](https://github.com/fenilgalani07/android-tutorials)
+- **Contact**: [fenilgalani111@gmail.com](mailto:fenilgalani111.niraj@gmail.com)
 
 
 ## Conclusion
