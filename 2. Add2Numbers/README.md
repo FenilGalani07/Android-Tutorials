@@ -23,7 +23,7 @@ This is a simple Android application that takes two numbers as input from the us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/bhagchandaniniraj/android-tutorials.git
+   git clone https://github.com/fenilgalani07/android-tutorials.git
    ```
 
 2. Open the project in **Android Studio**.
@@ -117,9 +117,9 @@ Feel free to fork this repository, make changes, and submit a pull request! 🛠
 
 ## Author
 
-- **Name**: Niraj Bhagchandani
-- **GitHub**: [https://github.com/bhagchandaniniraj/android-tutorials](https://github.com/bhagchandaniniraj/android-tutorials)
-- **Contact**: [bhagchandani.niraj@gmail.com](mailto:bhagchandani.niraj@gmail.com)
+- **Name**: Fenil Galani
+- **GitHub**: [https://github.com/fenilgalani07/android-tutorials](https://github.com/fenilgalani07/android-tutorials)
+- **Contact**: [fenilgalani111@gmail.com](mailto:fenilgalani111@gmail.com)
 
 
 ## Conclusion
