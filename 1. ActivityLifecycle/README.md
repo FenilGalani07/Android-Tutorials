@@ -46,7 +46,7 @@ Additionally, the project implements **`WindowInsetsCompat`** to adjust the padd
    To get started with the project, clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/activitylifecycle.git
+   git clone https://github.com/fenilgalani07/activitylifecycle.git
    ```
 
 ## How to Use
@@ -90,9 +90,9 @@ By mastering the activity lifecycle, you can ensure that your app provides a sea
 
 ## Author
 
-- **Name**: Niraj Bhagchandani
-- **GitHub**: [https://github.com/bhagchandaniniraj/android-tutorials](https://github.com/bhagchandaniniraj/android-tutorials)
-- **Contact**: [bhagchandani.niraj@gmail.com](mailto:bhagchandani.niraj@gmail.com)
+- **Name**: Fenil Galani
+- **GitHub**: [https://github.com/fenilgalani07/android-tutorials](https://github.com/fenilgalani07/android-tutorials)
+- **Contact**: [fenilgalani111@gmail.com](mailto:fenilgalani111@gmail.com)
 
 Feel free to reach out with any questions or feedback regarding the project!
 
