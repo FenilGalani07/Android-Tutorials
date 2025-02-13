@@ -96,7 +96,7 @@ public class SecondActivity extends AppCompatActivity {
 1. Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/bhagchandaniniraj/android-tutorials.git
+git clone https://github.com/fenilgalani07/android-tutorials.git
 ```
 
 2. Open the project in Android Studio.
@@ -106,8 +106,8 @@ git clone https://github.com/bhagchandaniniraj/android-tutorials.git
 
 ## Author
 
-- **Name**:Bhagchandani Niraj
-- **GitHub**: [bhagchandaniniraj](https://github.com/bhagchandaniniraj/android-tutorials.git)
+- **Name**:Fenil Galani
+- **GitHub**: [fenilgalani07](https://github.com/fenilgalani07/android-tutorials.git)
 
 ## License
 

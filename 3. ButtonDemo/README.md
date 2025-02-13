@@ -29,7 +29,7 @@ Before you start, make sure you have the following installed:
 To get started with this app, you can clone the repository by running the following command:
 
 ```bash
-git clone https://github.com/bhagchandaniniraj/android-tutorials.git
+git clone https://github.com/fenilgalani07/Android-Tutorials.git
 ```
 
 ### Step 2: Open the Project in Android Studio
@@ -141,12 +141,11 @@ Here’s how you can contribute:
 2. Make your changes or add new features.
 3. Create a pull request with a description of your changes.
 
-
 ## Author
 
 - **Name**: Fenil Galani
 - **GitHub**: [https://github.com/fenilgalani07/android-tutorials](https://github.com/fenilgalani07/android-tutorials)
-- **Contact**: [fenilgalani111@gmail.com](mailto:fenilgalani111.niraj@gmail.com)
+- **Contact**: [fenilgalani111@gmail.com](mailto:fenilgalani111@gmail.com)
 
 
 ## Conclusion

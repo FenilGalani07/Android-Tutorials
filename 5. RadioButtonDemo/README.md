@@ -32,7 +32,7 @@ Before getting started, ensure that you have the following installed:
 To clone the repository to your local machine, run the following command:
 
 ```bash
-git clone https://github.com/bhagchandaniniraj/android-tutorials.git
+git clone https://github.com/fenilgalani07/android-tutorials.git
 ```
 
 ### Step 2: Open the Project in Android Studio
@@ -174,9 +174,9 @@ If you have ideas for new features, enhancements, or bug fixes, feel free to:
 
 ## Author
 
-- **Name**: Niraj Bhagchandani
-- **GitHub**: [https://github.com/bhagchandaniniraj/android-tutorials](https://github.com/bhagchandaniniraj/android-tutorials)
-- **Contact**: [bhagchandani.niraj@gmail.com](mailto:bhagchandani.niraj@gmail.com)
+- **Name**: Fenil Galani
+- **GitHub**: [https://github.com/fenilgalani07/android-tutorials](https://github.com/fenilgalani07/android-tutorials)
+- **Contact**: [fenilgalani111@gmail.com](mailto:fenilgalani111@gmail.com)
 
 
 ## Conclusion

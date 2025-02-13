@@ -7,13 +7,12 @@ Features:
 ---------
 
 *   Checkboxes for selecting colors: Red, Green, and Blue.
-    
+
 *   A button that displays the state of the checkboxes (checked or unchecked).
-    
+
 *   Toast messages are shown when checkboxes are selected or deselected.
-    
+
 *   The app uses EdgeToEdge layout to enable edge-to-edge rendering on supported devices.
-    
 
 Prerequisites
 -------------
@@ -26,7 +25,7 @@ Prerequisites
 Setup Instructions
 ------------------
 
-1.  **Clone the repository** or download the ZIP file from the [GitHub repository](https://github.com/fenilgalani07/Android-Tutorials/CheckBoxDemo).
+1.  **Clone the repository** or download the ZIP file from the [GitHub repository](https://github.com/fenilgalani07/Android-Tutorials).
     
 2.  **Open the project in Android Studio**:
     
@@ -76,23 +75,15 @@ The XML layout file defines the UI components:
 Screenshots
 -----------
 
-Here are some screenshots of the application:
-
-- **Snapshot 1**  
-![Snapshot-1](https://github.com/bhagchandaniniraj/android-tutorials/raw/main/CheckBoxDemo/snapshots/Snapshot-1.png)
-
-- **Snapshot 2**  
-![Snapshot-2](https://github.com/bhagchandaniniraj/android-tutorials/raw/main/CheckBoxDemo/snapshots/Snapshot-2.jpg)
 
  
  ## Author
 
-- **Name**: Niraj Bhagchandani
-- **GitHub**: [https://github.com/bhagchandaniniraj/android-tutorials](https://github.com/bhagchandaniniraj/android-tutorials)
-- **Contact**: [bhagchandani.niraj@gmail.com](mailto:bhagchandani.niraj@gmail.com)
+- **Name**: Fenil Galani
+- **GitHub**: [https://github.com/fenilgalani07/android-tutorials](https://github.com/fenilgalani07/android-tutorials)
+- **Contact**: [fenilgalani111@gmail.com](mailto:fenilgalani111@gmail.com)
 
 -------
 
 This project is licensed under the MIT License.
 
-Feel free to modify and extend this application as per your needs. If you find any bugs or need improvements, please submit an issue or a pull request.
