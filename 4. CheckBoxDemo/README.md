@@ -26,7 +26,7 @@ Prerequisites
 Setup Instructions
 ------------------
 
-1.  **Clone the repository** or download the ZIP file from the [GitHub repository](https://github.com/fenilgalani07/android-tutorials/tree/main/CheckBoxDemo).
+1.  **Clone the repository** or download the ZIP file from the [GitHub repository](https://github.com/fenilgalani07/Android-Tutorials/CheckBoxDemo).
     
 2.  **Open the project in Android Studio**:
     
